@@ -8,3 +8,6 @@
 * CSS
 * JavaScript 
 * SASS 
+
+
+![alt text](https://github.com/natalyapeixoto/MiniTube/img/screenShot.png)
