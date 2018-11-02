@@ -10,4 +10,4 @@
 * SASS 
 
 
-![print screen do projeto](https://github.com/natalyapeixoto/MiniTube/master/img/screenShot.png)
+![print screen do projeto](https://raw.githubusercontent.com/natalyapeixoto/MiniTube/master/img/screenShot.png)
