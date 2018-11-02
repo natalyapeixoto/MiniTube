@@ -10,4 +10,4 @@
 * SASS 
 
 
-![alt text](https://github.com/natalyapeixoto/MiniTube/img/screenShot.png)
+![alt text](https://github.com/natalyapeixoto/MiniTube/master/img/screenShot.png)
